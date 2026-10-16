@@ -1,0 +1,6 @@
+@HrOne_Rep_HostAddress = http://localhost:5259
+
+GET {{HrOne_Rep_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
